@@ -1,5 +1,0 @@
-<form method="post" enctype="multipart/form-data" action="/upload">
-    <label for="file">Choose a file:</label>
-    <input type="file" id="file" name="file" accept=".txt, .pdf, .docx">
-    <button type="submit">Upload</button>
-</form>
